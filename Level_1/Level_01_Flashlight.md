@@ -3,6 +3,15 @@ In this class you will make an LED flashlight.
 At your disposal:
 
 * Led's (any flavor)
+  * Red
+  * Blue
+  * Green
+  * Yellow
+  * Orange
+  * RGB-Cycling (rare)
+  * Violet (special properties)
+  * Flashlight LED
+
 * Resistors (match what you need in the table)
 * switches (Anything in Stock -- :sparkles: feel free to make requests :sparkles: )
 * silk-screen (layer 21)
