@@ -19,7 +19,7 @@ In this class you will make an LED flashlight.
 * silk-screen (layer 21)
 * CR2032 or CR2016 batteries
 
-## Next Time:
+## Next Time In Eagle PCB Design:
 
 _In the next session, we'll solder these and make second prototypes._
 
