@@ -1,3 +1,5 @@
+# LED Flashlight
+
 In this class you will make an LED flashlight.
 
 At your disposal:
