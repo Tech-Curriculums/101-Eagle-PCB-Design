@@ -2,7 +2,7 @@
 
 In this class you will make an LED flashlight.
 
-At your disposal:
+## At your disposal:
 
 * Led's (any flavor)
   * Red
@@ -19,7 +19,7 @@ At your disposal:
 * silk-screen (layer 21)
 * CR2032 or CR2016 batteries
 
-
+## Next Time:
 
 _In the next session, we'll solder these and make second prototypes._
 
